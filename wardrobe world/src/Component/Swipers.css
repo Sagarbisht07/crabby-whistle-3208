@@ -1,0 +1,45 @@
+.swiper {
+  width: 90%;
+  height: auto;
+  z-index: 1;
+  margin: auto;
+  margin-top: 1rem;
+}
+/* write hover effect for this zoom in img */
+
+.swiper1:hover {
+  transform: scale(1.1);
+  transition: all 0.3s ease-in-out;
+  z-index: 2;
+  cursor: pointer;
+}
+.swip {
+  margin-bottom: 2rem;
+}
+.mySwiper {
+  margin-top: 1rem;
+  width: 90%;
+}
+.button {
+  box-sizing: inherit;
+  text-decoration: none;
+  font-family: Futura-Medium, Century Gothic, Gill Sans, Helvetica, Arial,
+    sans-serif;
+  font-size: 12px;
+  letter-spacing: 1.2px;
+  line-height: 17px;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.4s ease-out, border-color 0.4s ease-out,
+    color 0.4s ease-out;
+  padding: 7px 20px;
+  display: inline-block;
+  text-align: center;
+  width: auto;
+  color: #ffffff !important;
+  background-color: #000000;
+  border-color: #000000;
+  margin-top: 1.5rem;
+  margin-left: 47%;
+}

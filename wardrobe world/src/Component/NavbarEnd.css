@@ -1,0 +1,27 @@
+.hover {
+    display: flex;
+    width: 59%;
+    margin: auto;
+    padding: 0.2rem;
+    gap: 1.5rem;
+  
+  }
+  
+  .hover1 {
+    font-family: arial, sans-serif;
+    color: grey;
+    font-weight: 550;
+    font-size: medium;
+    opacity: .6;
+  }
+  .item {
+   
+   color: black;
+    font-family: arial, sans-serif;
+    background-color: azure;
+  }
+  .menu-item {
+    color: gray;
+    font-family:  sans-serif;
+  }
+  
